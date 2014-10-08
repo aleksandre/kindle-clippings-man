@@ -1,0 +1,57 @@
+div.head
+	div.container
+		a(href="/" style="text-decoration:none;") kETL
+			
+div.container
+	div.page-header
+		div.input-group
+			input(type='text', name='search-box', value='',class='form-control')
+			span.input-group-btn
+				input(type='button', name='do-search', class='btn btn-success', value='Search')
+		input(type='button', name='do-pick-clipping-file', value='Upload Kindle clippings', class='btn btn-link' data-toggle="modal" data-target="#myModal")
+		input(type='button', name='show-advanced-options', value='Options', class='btn btn-link pull-right' action="#doshit")
+
+	if clippings
+		h3 #{clippings.length} results
+			button.btn.btn-default.btn-sm.pull-right
+				span.glyphicon.glyphicon-cloud-download 
+				|  Export
+
+
+	if clippings
+		#clippings-view
+			table.table.table-bordered.table-hover
+				thread
+					tr
+				tbody
+					each clip in clippings
+						tr
+							td
+								=clip.text 
+								br
+								span.italic.small
+									| - 
+									a(class="author-link") #{clip.author} 
+									|, 
+									a(class="book-link") #{clip.book}		
+					
+
+	h5.text-center Ketl is a tool to save and explore Amazon Kindle clippings. 
+
+
+#myModal.modal.fade.bs-example-modal-lg(tabindex="-1", role='dialog', aria-hidden='true')
+	.modal-dialog
+		.modal-content
+			.modal-header
+				button.close(type='button', data-dismiss='modal')
+					span(aria-hidden='true')
+					span.sr-only Close
+				h4#myModalLabel.modal-title Upload your Kindle clippings
+			.modal-body
+				form(action="/upload-clippings/", id="#upload-clipping-form" method="post", enctype="multipart/form-data")
+					input(type="file", name="clippingFile")
+			.modal-footer
+					button.btn.btn-default(type='button', data-dismiss='modal') Cancel
+					button.btn.btn-primary(type='submit', form="#upload-clipping-form") Upload
+				
+

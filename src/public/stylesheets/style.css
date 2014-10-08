@@ -1,0 +1,43 @@
+body {
+	margin: 0;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	line-height: 20px;
+	background-color: #ffffff;
+}
+
+.head {
+	background-color:#354c71;
+	height: 60px;
+}
+
+.head a {
+	color:#ffffff;
+	font-size: 50px;
+	vertical-align: middle;
+	margin: auto;
+    position: absolute;
+    padding-top:20px;
+
+}
+
+.head img {
+	height:60px;
+	width: 60px;
+}
+
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 700px;
+  display:block;
+}
+
+
+#clippings-view {  
+    max-height: 600px;
+    overflow: scroll;
+}​
+

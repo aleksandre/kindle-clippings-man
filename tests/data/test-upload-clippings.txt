@@ -1,0 +1,360 @@
+The 7 Habits of Highly Effective People (Stephen R. Covey)
+- Highlight Loc. 735-38  | Added on Sunday, October 02, 2011, 04:57 AM
+
+If I am emotionally interdependent, I derive a great sense of worth within myself, but I also recognize the need for love, for giving, and for receiving love from others. If I am intellectually interdependent, I realize that I need the best thinking of other people to join with my own. As an interdependent person, I have the opportunity to share myself deeply, meaningfully, with others, and I have access to the vast resources and potential of other human beings.
+==========
+The 7 Habits of Highly Effective People (Stephen R. Covey)
+- Highlight Loc. 799-802  | Added on Sunday, October 02, 2011, 05:02 AM
+
+When two people in a marriage are more concerned about getting the golden eggs, the benefits, than they are in preserving the relationship that makes them possible, they often become insensitive and inconsiderate, neglecting the little kindnesses and courtesies so important to a deep relationship. They begin to use control levers to manipulate each other, to focus on their own needs, to justify their own position and look for evidence to show the wrongness of the other person. The love, the richness, the softness and spontaneity begin to deteriorate. The goose gets sicker day by day.
+==========
+The 7 Habits of Highly Effective People (Stephen R. Covey)
+- Highlight Loc. 1040-45  | Added on Sunday, October 02, 2011, 05:12 AM
+
+Because we are, by nature, proactive, if our lives are a function of conditioning and conditions, it is because we have, by conscious decision or by default, chosen to empower those things to control us. In making such a choice, we become reactive. Reactive people are often affected by their physical environment. If the weather is good, they feel good. If it isn’t, it affects their attitude and their performance. Proactive people can carry their own weather with them. Whether it rains or shines makes no difference to them. They are value driven; and if their value is to produce good quality work, it isn’t a function of whether the weather is conducive to it or not.
+==========
+The 7 Habits of Highly Effective People (Stephen R. Covey)
+- Highlight Loc. 1055-57  | Added on Sunday, October 02, 2011, 05:14 AM
+
+I admit this is very hard to accept emotionally, especially if we have had years and years of explaining our misery in the name of circumstance or someone else’s behavior. But until a person can say deeply and honestly, “I am what I am today because of the choices I made yesterday,” that person cannot say, “I choose otherwise.”
+==========
+The 7 Habits of Highly Effective People (Stephen R. Covey)
+- Highlight Loc. 1590-91  | Added on Thursday, October 13, 2011, 10:17 PM
+
+It’s not in having things, but in having mastery, having victory over self.
+==========
+The 7 Habits of Highly Effective People (Stephen R. Covey)
+- Bookmark Loc. 1643  | Added on Thursday, October 13, 2011, 10:27 PM
+
+
+==========
+The 7 Habits of Highly Effective People (Stephen R. Covey)
+- Highlight Loc. 1649-55  | Added on Thursday, October 13, 2011, 10:28 PM
+
+I will always try to keep myself free from addictive and destructive habits. I will develop habits that free me from old labels and limits and expand my capabilities and choices. My money will be my servant, not my master. I will seek financial independence over time. My wants will be subject to my needs and my means. Except for long-term home and car loans, I will seek to keep myself free from consumer debt. I will spend less than I earn and regularly save or invest part of my income. Moreover, I will use what money and talents I have to make life more enjoyable for others through service and charitable giving. 
+==========
+1 (Eveline)
+- Bookmark Loc. 50  | Added on Tuesday, November 01, 2011, 02:23 AM
+
+
+==========
+1 (Eveline)
+- Highlight Loc. 50-54  | Added on Tuesday, November 01, 2011, 02:24 AM
+
+Par exemple, les activités de contrôle de qualité sont la revue des documents d’exigences et de spécifications, la revue du code source, le test, la preuve formelle pour des parties du code, etc. Ainsi, le contrôle de qualité permet de mesurer la qualité du produit et ultimement de contrôler le produit logiciel. L’AQL inclus le contrôle de la qualité du logiciel. Les tests sont reconnus comme étant la pierre angulaire du contrôle de la qualité du logiciel. Un plan de test logiciel bien mené peut permettre à une entreprise d'économiser du temps, des efforts et de l'argent lors de l’étape de la validation du logiciel.
+==========
+1 (Eveline)
+- Highlight Loc. 56-57  | Added on Tuesday, November 01, 2011, 02:25 AM
+
+Un test est un ensemble de cas de test, combiné ou non à un ensemble de procédures de 
+==========
+1 (Eveline)
+- Highlight Loc. 59-64  | Added on Tuesday, November 01, 2011, 02:26 AM
+
+Le débogage est un processus informel qui tente de réduire le nombre de bugs, ou des défauts, dans un logiciel. Le terme correct à employer est de tester un logiciel. Tester c’est réaliser l’exécution d’un logiciel avec l’objectif de trouver des défauts. Le test du logiciel (synonyme d’essai logiciel) est un processus employé pour aider à identifier l'exactitude, la perfection et la qualité du logiciel. Il faut noter que tester et déboguer sont deux activités distinctes. Le processus de débogage débute après que les tests aient étés effectués et que le testeur ait noté que le logiciel ne se comporte pas tel que spécifié. Les tests permettent de trouver des défauts mais, en contrepartie, ne peuvent jamais complètement établir l'exactitude du logiciel et prouver qu’il ne contient pas de défauts.
+==========
+1 (Eveline)
+- Highlight Loc. 72-77  | Added on Tuesday, November 01, 2011, 02:27 AM
+
+Pour le spécialiste de l’AQL il est important que l’organisation adopte une seule et même façon de catégoriser et rapporter les défauts. De cette manière il sera plus facile de les gérer, d’en effectuer les comparaisons et aussi d’identifier les sources de difficultés et d’améliorations des équipes. Les bénéfices attendus de l’analyse et de la classification des défauts sont : • réduction des coûts de développement et de maintenance; • amélioration de la qualité des logiciels; • concentration des ressources sur les problèmes plus sérieux; • encadrement professionnel de l’amélioration de processus; • amélioration de la communication entre les différents
+==========
+1 (Eveline)
+- Highlight Loc. 72-78  | Added on Tuesday, November 01, 2011, 02:27 AM
+
+Pour le spécialiste de l’AQL il est important que l’organisation adopte une seule et même façon de catégoriser et rapporter les défauts. De cette manière il sera plus facile de les gérer, d’en effectuer les comparaisons et aussi d’identifier les sources de difficultés et d’améliorations des équipes. Les bénéfices attendus de l’analyse et de la classification des défauts sont : • réduction des coûts de développement et de maintenance; • amélioration de la qualité des logiciels; • concentration des ressources sur les problèmes plus sérieux; • encadrement professionnel de l’amélioration de processus; • amélioration de la communication entre les différents intervenants du logiciel.
+==========
+1 (Eveline)
+- Highlight Loc. 79-83  | Added on Tuesday, November 01, 2011, 02:28 AM
+
+les types de défauts relevés et la fréquence à laquelle chacun survient serve à guider les efforts de planification et de conception des tests et qu’une rétroaction vers la source des problèmes soit observée. Il y a quatre grandes catégories de types de défauts (voir figure 8.1) : • Exigences / spécifications • Conception • Programmation • Tests
+==========
+1 (Eveline)
+- Highlight Loc. 100-107  | Added on Tuesday, November 01, 2011, 02:31 AM
+
+Du coté de la programmation on retrouvera les défauts typiques suivants : • algorithmiques / de traitement (processing); • logique, de contrôle ou de séquencement; • initialisations de variables; • données et flux de données; • typographiques et documentation du code; • description des interfaces des modules; • description fonctionnelle; • description des interfaces externes. Finalement il est possible qu’on identifie des défauts dans les tests eux mêmes, du type : • Défauts à l’environnement de tests • Défauts de conception des tests et de procédures de tests • Défauts de programmation de tests, s’il y a du code source développé pour l’exécution de tests
+==========
+1 (Eveline)
+- Highlight Loc. 108-10  | Added on Tuesday, November 01, 2011, 02:31 AM
+
+Nous savons donc qu’il y aura des défauts dans l’environnement et le logiciel. Alors comment utiliser au maximum, dans un contexte de ressources limitées, le temps alloué pour trouver ces défauts le plus tôt possible?
+==========
+1 (Eveline)
+- Highlight Loc. 120-30  | Added on Tuesday, November 01, 2011, 02:33 AM
+
+Principes de tests 1. Le test est un processus consistant à solliciter un composant logiciel en utilisant un ensemble choisi de cas de tests avec l'intention de (i) révéler des défauts et (ii) évaluer sa qualité. 2. Quand l'objectif du test est de détecter des défauts, un bon cas de test en est un qui a une probabilité élevée de révéler un défaut encore non-détecté. 3. Les résultats de tests devraient être inspectés méticuleusement pour en assurer l’exactitude 4. Un cas de test doit spécifier la sortie ou le résultat attendu. 5. Des cas de tests devraient être développés pour des entrées valides, mais aussi pour des entrées invalides. 6. La probabilité qu'il existe des défauts additionnels dans un composant logiciel est proportionnelle au nombre de défauts déjà détectés dans ce composant 7. Les tests devraient être réalisés par un groupe qui est indépendant du groupe de développement. 8. Les tests doivent être répétables et réutilisables. 9. Les tests devraient être planifiés. 10. Les activités associées aux tests devraient être intégrées dans le cycle de vie du logiciel. 11. Les tests forment une tâche créative et un haut niveau de défi.
+==========
+1 (Eveline)
+- Bookmark Loc. 130  | Added on Tuesday, November 01, 2011, 02:33 AM
+
+
+==========
+1 (Eveline)
+- Highlight Loc. 130-39  | Added on Tuesday, November 01, 2011, 02:33 AM
+
+Une première étape vise l’établissement d’un objectif de test. Avant d’effectuer les tests il est sage de se fixer des objectifs précis. L’objectif de test varie, par exemple : 1. Qualité – éliminer le plus grand nombre de défauts possible, allant de : a. Tous les défauts indépendamment du temps ou des coûts ; b. Presque tous les défauts possibles dans le temps disponible (le coût et le temps sont le critère de sortie) c. Tous les défauts possibles avec le temps alloué, le temps est le critère principal 2. Acceptation du client – l'objectif principal des tests est d’obtenir la signature du client de telle sorte que le client accepte finalement le logiciel 3. Certification du produit – une tierce partie effectue les tests afin de certifier que le logiciel a été testé par une organisation indépendante. Ces tests visent typiquement: a. L’élimination de virus et logiciels espions b. La fonctionnalité c. L’utilisabilité d. La comparaison et la position relative du logiciel par rapport à un autre logiciel e. L’évaluation indépendante de la qualité du logiciel
+==========
+1 (Eveline)
+- Highlight Loc. 144-45  | Added on Tuesday, November 01, 2011, 02:34 AM
+
+boite noire : exploratoires, classes d’équivalence, analyse des valeurs frontalières, graphes cause effet, tables de décisions, etc.;
+==========
+1 (Eveline)
+- Highlight Loc. 146-47  | Added on Tuesday, November 01, 2011, 02:34 AM
+
+boite blanche : test d’énoncé, test de décision, test de branche, test de chemins, test de définition d’une variable, test d’utilisation d’une variable, etc.
+==========
+1 (Eveline)
+- Highlight Loc. 148-49  | Added on Tuesday, November 01, 2011, 02:35 AM
+
+Test de régression : si nous faisons ces tests, quel sera le nombre d'itérations? une seule fois ou on itère jusqu'à ce que tous les défauts sont clos?
+==========
+1 (Eveline)
+- Highlight Loc. 149-50  | Added on Tuesday, November 01, 2011, 02:35 AM
+
+Critères de réussite du test : prenons-nous une durée fixe ou bien une fonction des défauts découverts et qui restent?
+==========
+1 (Eveline)
+- Highlight Loc. 150-52  | Added on Tuesday, November 01, 2011, 02:35 AM
+
+Quels sont les mécanismes de résolution d’un défaut qui est découvert lors de tests et qui doit faire l’objet d’un changement et d’un test subséquent?
+==========
+1 (Eveline)
+- Highlight Loc. 152-53  | Added on Tuesday, November 01, 2011, 02:35 AM
+
+Quels seront les itérations de tests et les rapports d'étape requis au cours de l'exécution des activités?
+==========
+1 (Eveline)
+- Bookmark Loc. 153  | Added on Tuesday, November 01, 2011, 02:36 AM
+
+
+==========
+1 (Eveline)
+- Highlight Loc. 158  | Added on Tuesday, November 01, 2011, 02:36 AM
+
+Critères de sortie : Conditions qui doivent être présentes avant qu’un effort ne puisse se terminer avec succès. (CMMi, 2006)
+==========
+1 (Eveline)
+- Highlight Loc. 183-84  | Added on Tuesday, November 01, 2011, 02:38 AM
+
+La question stratégique est : quel sous-ensemble de tous les cas de tests possibles a la probabilité la plus élevée de détecter le plus de défauts?
+==========
+1 (Eveline)
+- Highlight Loc. 189-92  | Added on Tuesday, November 01, 2011, 02:39 AM
+
+Un cas de test efficace démontrera les propriétés suivantes : • probabilité plus élevée de trouver des défauts; • utilisation plus efficace des ressources de l'organisation; • probabilité plus élevée de pouvoir réutiliser des tests; • meilleur respect du budget et des échéances du projet; • possibilité de livrer un produit de meilleure qualité.
+==========
+1 (Eveline)
+- Highlight Loc. 192-95  | Added on Tuesday, November 01, 2011, 02:39 AM
+
+Il y a deux grandes familles de techniques de tests : 1) Tests dynamiques : tests qui nécessitent l’exécution du logiciel 2) Tests statiques : tests qui ne nécessitent pas l’exécution du logiciel: analyse statique des exigences, des artefacts de conception, des documents de tests, du code source, etc.
+==========
+1 (Eveline)
+- Highlight Loc. 195-202  | Added on Tuesday, November 01, 2011, 02:40 AM
+
+Les stratégies les plus populaires de conception de tests sont : • boite noire (aussi nommés "test basés sur les spécifications" ou "tests fonctionnels") : le logiciel à tester est considéré comme une boite opaque. Le testeur sait ce que fait le logiciel, à partir de sa description dans les spécifications (formelles ou non). Ces tests définissent les préconditions et postconditions afin de révéler des défauts au niveau des fonctionnalités telles que spécifiées; • boite blanche (aussi nommés "tests structurels", "boite transparente" ou "boite de verre") : se concentrent sur la structure interne du code source (ou un pseudo code "fidèle") qui doit être disponible au testeur. Les cas de tests sont conçus pour exercer certaines structures spécifiques du code source. Appliqués à des "petits" éléments logiciels, ces tests sont utiles pour révéler des défauts reliés à la conception ou au code (contrôle, logique, séquences, initialisation, flux des données).
+==========
+1 (Eveline)
+- Highlight Loc. 229-31  | Added on Tuesday, November 01, 2011, 02:41 AM
+
+La séparation en classes d'équivalence Cette technique vise à choisir les données d’entrées de manière à augmenter l’efficacité des cas de tests. Elle a pour objectif de réduire le nombre de cas de tests à un niveau raisonnable tout en conservant une bonne couverture.
+==========
+1 (Eveline)
+- Bookmark Loc. 264  | Added on Tuesday, November 01, 2011, 02:43 AM
+
+
+==========
+1 (Eveline)
+- Highlight Loc. 381-85  | Added on Tuesday, November 01, 2011, 02:47 AM
+
+Il y a deux grandes catégories de techniques de tests boite blanche. Les techniques utilisant : - le flux de contrôle d’un logiciel: pour chaque instruction, tester son exécution et ses différentes utilisations. - Le flux de données d’un logiciel: pour chaque variable, tester les relations entre les affectations («définitions») et ses différentes utilisations.
+==========
+1 (Eveline)
+- Highlight Loc. 498  | Added on Tuesday, November 01, 2011, 02:50 AM
+
+Dans la plupart des entreprises il y aura quatre à cinq niveaux de tests : unitaire, intégration, système, acceptation et opérationnel.
+==========
+1 (Eveline)
+- Highlight Loc. 498-500  | Added on Tuesday, November 01, 2011, 02:51 AM
+
+Dans les normes de l’IEEE on restreint le nombre de niveaux à trois : unitaire, intégration et systèmes (SWEBOK 2004)
+==========
+1 (Eveline)
+- Highlight Loc. 501-4  | Added on Tuesday, November 01, 2011, 02:51 AM
+
+Au niveau unitaire les tests visent à identifier des défauts fonctionnels et structurels. Au niveau de l’intégration, les tests visent à découvrir les problèmes de communication entre les unités et s’assurer du bon fonctionnement et de la structure du groupe. Au niveau du système la fonctionnalité est encore une fois testée mais ce niveau de test va contenir des types de test variés avec des objectifs spécifiques au logiciel testé.
+==========
+1 (Eveline)
+- Highlight Loc. 549-52  | Added on Tuesday, November 01, 2011, 02:55 AM
+
+Pour les logiciels orienté objet tend à utiliser une approche de grappe d’objets. Une grappe d’objets est un ensemble de classes inter reliées qui coopèrent afin d’exécuter une fonctionnalité du logiciel. Effectuer un test d’intégration en utilisant le concept d’ajout de grappes est similaire à identifier un sous-système logique à l’intérieur du système à tester. Il sera nécessaire ici aussi de développer du code de test pour les interactions externes au sous système choisi.
+==========
+1 (Eveline)
+- Bookmark Loc. 555  | Added on Tuesday, November 01, 2011, 02:55 AM
+
+
+==========
+1 (Eveline)
+- Highlight Loc. 556-623  | Added on Tuesday, November 01, 2011, 02:59 AM
+
+test de système. Ce test nécessite beaucoup d’effort car il doit simuler la réalité telle qu’elle sera perçue par la clientèle donc rencontre t’il les exigences? Autant les exigences qualité que fonctionnelles doivent faire l’objet de tests. Il sera donc nécessaire d’expérimenter dans un environnement, des données réelles une charge réelle. Voici une liste de types de tests systèmes (aussi nommés objectifs de tests systèmes) typiques, qui sont choisis et effectués au cas par cas selon le besoin: • Fonctionnel – Ce type de tests vise à s’assurer que toutes les fonctions attendues du logiciel sont implémentées et fonctionnent correctement (du point de vue des utilisateurs finaux). Un genre spécifique de tests fonctionnel est le test d’exactitude. • Exactitude – Type de test qui s’assure que les données sont complètes et les calculs exacts. • Utilisabilité – Type de test du logiciel, pour différents types d'utilisation, qui s’assure que l’interface utilisateur s'acquitte, de manière satisfaisante, des exigences d’utilisabilité spécifiées. On vise ici à évaluer si l’utilisateur peut faire son travail efficacement en suivant la séquence des opérations dans l’interface. Ce test a pour objectif d’évaluer la facilité pour les utilisateurs finaux à utiliser et à apprendre le logiciel et d’évaluer l’efficacité des fonctions à soutenir les tâches des utilisateurs. Un genre spécifique de tests d’utilisabilité est le test de la documentation des utilisateurs. • Documentation utilisateur – Ce type de test vise à s’assurer que les messages d’erreurs et la documentation s’arriment parfaitement avec le comportement du logiciel. • Bout en bout – Dans ce type de test, les transactions d’affaires sont initiées et suivies tout au long de leurs transformations jusqu’a complétude. Par exemple, dans un dossier d’historique de l’employé, un employé se joint à l’entreprise; est ensuite promu; est ensuite rétrogradé, des augmentations de salaire sont accordées, quelquefois des diminutions de salaire peuvent être effectuées; un dossier peut être gardé en suspens; un employé transféré, puis partir à la retraite, mis à pied ou décéder. Ce type de test s’assure que la transaction d’affaire est fonctionnelle. • Dos à dos – Dans ce type de test, le même jeu d’essais est effectué sur deux versions différentes d'un même produit logiciel, et les résultats sont comparés. • Fiabilité – Ce type de test évalue les endroits critiques qui peuvent influencer son bon fonctionnement (le temps de service entre deux pannes). Tests alpha et bêta 30 Copie pour l’enseignement de LOG240 à l’ÉTS (21-10-2010) Avant qu’un logiciel de masse soit commercialisé, il est parfois distribué à un ensemble restreint et représentatif d'utilisateurs potentiels pour des essais préliminaires, soit en interne (test alpha) ou à l’externe (test bêta). Ces utilisateurs signaleront des défauts avec le produit. SWEBOK • Cohérence (‘ Sanity Test’) – Ce type de test effectue un survol rapide de l’ensemble des composants pour s’assurer que le ‘build’ contiendra les versions appropriées et complètes des composants appropriés pour la version désirée. • Régression – Ce type de test consiste à effectuer des essais sur les parties (composants) qui ne sont pas touchés directement par une modification. Il vise à s’assurer qu’il n’y a pas eu d’effets secondaires imprévus lors des modifications. Selon IEEE (IEEE 610.12, 1990) ‘Des tests sélectifs d'un système ou composant pour vérifier que les modifications n'ont pas entraîné des effets inattendus". • Sécurité – Type de test qui s'assure d’identifier des vulnérabilités contre les accès accidentels, non autorisés, les menaces des virus et les logiciels espions. • Performance – Type de test qui s'assure que le temps de réponse d’une transaction, telle que perçu par l’utilisateur final, reste à l’intérieur de limites spécifiées acceptables. Ce test est spécifiquement destiné à vérifier que le logiciel répond aux exigences spécifiques de performance, par exemple, la capacité et le temps de réponse. Un genre spécifique de tests de performance est le test de volume. • Volume – Ce type de test tente d’atteindre et de dépasser les volumes de données qui font dégrader significativement la performance du logiciel. Il est utile de connaître ce seuil et de le publier aux utilisateurs/clients. • Charge – Le test de charge est un type de test populaire pour les applications Web et les applications multiutilisateur. Un grand nombre d’utilisateurs sont connectés et essaient d'utiliser le logiciel d’une manière aléatoire. L’objectif est de voir si le logiciel permet de bien gérer plusieurs demandes de toutes sortes. Ce type de test fait ressortir des problématiques liées à la bande passante, les bases de données, la suffisance de mémoire, les accès aux disques, etc. Un genre spécifique de tests de charge est le test de concurrence. • Concurrence – Le type de test concurrent requiert aussi un certain nombre d'utilisateurs. Mais cette fois-ci ils utilisent tous la même fonction simultanément en saisissant les mêmes données. Ce type de test vise à faire ressortir la capacité du système à exécuter simultanément la même transaction et en préservant sa performance et surtout l’intégrité des données. Par exemple, prenez le scénario de réservation des billets, il y a un seul siège et il est actuellement disponible. Au moment de confirmer l'achat, le système devrait l’assigner à une seule personne et rejeter les demandes des autres. Les Tests et l’AQL – Alain April et Roger Champagne 31 • Stress – Les simulations de comportement du logiciel à sa charge maximale (tel que spécifié lors de sa construction), ainsi qu’au-delà de cette charge. Dans certains cas ce type de test cherchera à rendre certaines ressources non disponibles pour voir le comportement du logiciel. • Parallèle – Ce type de test permet de reproduire exactement l’environnement de la production. Le test parallèle est utile car il permet de simuler exactement ce qui va se passer en production si on mettait le composant en service. • Déploiement (aussi nommé d’opérabilité) – Ce type de test vise à simuler toutes les étapes de mise en production et de retrait en cas de problème. C’est une préparation consciencieuse afin de s’assurer que le déploiement spécifié est approprié et fonctionnera sans problèmes. • Configuration – Test effectué pour le cas où le logiciel est construit pour desservir différents utilisateurs. Le test de configuration analyse le logiciel sous diverses configurations spécifiées. • Installation / désinstallation – Type de test d’un logiciel, sur différentes plates-formes cibles, qui vise à s'assurer qu’il s’installe, fonctionne et se désinstalle de façon satisfaisante • Maintenabilité – Type de test du logiciel pour s’assurer que sa maintenance sera efficace. La maintenabilité dans ce contexte signifie : 1) qu’il est facile d’identifier l’endroit ou faire une modification; 2) effectuer une modification se fait facilement; 3) Il est simple de tester la modification et d’effectuer le test de régression sur le reste du logiciel et 4) de faciliter son déploiement suite à une modification. • Recouvrement (aussi nommé test de reprise) – l’objectif de ce test est de s’assurer que le logiciel peut récupérer facilement et rapidement suite à une défaillance; • Comparatif – Type de test qui vise à comparer les fonctionnalités de deux logiciels. Le but de ce type de test est d'établir la position relative du produit par rapport à ses concurrents. Au niveau opérationnel les tests visent à identifier s'il n’y a pas dégradation des services suite au changement ou à l’ajout de logiciel.
+==========
+1 (Eveline)
+- Highlight Loc. 661  | Added on Tuesday, November 01, 2011, 03:02 AM
+
+LA DOCUMENTATION DES TESTS
+==========
+1 (Eveline)
+- Highlight Loc. 661-98  | Added on Tuesday, November 01, 2011, 03:03 AM
+
+Les objectifs de cette section sont de décrire la documentation liée aux tests telle que décrite dans la norme IEEE qui décrit la documentation des tests (IEEE 829, 2008), qui présente les sujets suivants (voir figure 8.10): • Planification des tests : qui s’assure d’identifier les activités et les efforts requis • Éléments du plan de test : qui vise à identifier clairement l’objectifs et la technique • Pièces jointes au plan de test : qui permet de mettre en œuvre le test (données, environnements,. etc..) • Spécification de conception de test : décrit la conception/vue d’ensemble du test • Spécification de cas de test – permet de développer le cas de test par une personne qui ne connais pas le logiciel • Spécification de procédures de test : décrit les étapes et les requis pour l’exécution du test • Rapport de transmission d'items de test : permet de communiquer et de gérer la configuration de chaque test avec les développeurs • Rapports de test : qui permet de présenter les résultats (succès/échec) des tests • Journal de test : qui contiens l’ensemble des résultats des tests initiaux et subséquents 34 Copie pour l’enseignement de LOG240 à l’ÉTS (21-10-2010) • Rapport d'incident de test : rapport qui décrit les condition d’échec qui sera communiqué au développeur afin de corriger le logiciel La planification des tests débute avec la conception d’un plan de test. Un plan de test est un document qui décrit les objectifs, la portée, l’approche et est orienté sur l’effort nécessaire pour tester un projet (ou une demande de changement). Le processus de préparation d’un plan de test doit être approché d’une manière pratique afin de définir les efforts qui seront nécessaire pour valider l’assurance qualité d’un produit. Le document complété peut aussi aider les personnes extérieures à l’équipe de test à comprendre « pourquoi » et « comment » le produit sera validé. Les objectifs de tests, selon la norme IEEE 829 – norme de documentation des tests de logiciels et de systèmes (IEEE829, 2008), s’assurent que des processus de tests incluent l'examen des interactions avec tous les composants du système qui inclue le logiciel, tels que: • L’environnement: les tests doivent déterminer que la solution représentée par le système, qui contiens du logiciel, représente correctement toutes les exigences, telles que les phénomènes naturels, les lois de la nature, les règles d’affaires, les propriétés physiques, et la gammes complètes des états spécifiques spécifiés (fonctionnelles, contraintes et non fonctionnelles) selon le cas échéant. • Les opérateurs / utilisateurs: les tests doivent déterminer que le logiciel communique son statut réel et exact à l’opérateur ou l’utilisateur et traite correctement tous intrants des opérateurs ou utilisateurs afin de produire les résultats escomptés. Dans le cas ou une entrée serait incorrecte il faut s’assurez que le système puisse présenter les messages d’erreurs adéquates et ne devienne pas dangereux. Les tests ont aussi l’objectif de valider que les procédures et politiques des opérateurs et des utilisateurs sont appliquées uniformément et systématiquement dans chaque interface. Finalement, que la documentation utilisée par les opérateurs et les utilisateurs est complète et sans défaut (par exemple, les messages d'erreurs, fichiers d'aide, système de soutien, guides d'utilisation, et le matériel de formation); • Les matériel: Les tests ont pour objectif de déterminer que le logiciel interagit correctement avec chaque équipement informatique et traite, d’une manière contrôlée, les défauts de matériel (par exemple, la dégradation progressive plutôt que l’arrêt total). • Les logiciels interconnectés: Les tests s’assurent que le logiciel interface correctement avec d'autres logiciels ou d'autres systèmes en conformité avec les exigences, et que les erreurs n’est pas propagées parmi ces composants. Les Tests et l’AQL – Alain April et Roger Champagne 35 Le processus de test fournit des preuves objectives que le système opérant le logiciel et les produits qui l’accompagnent: a) satisfaire aux exigences systèmes; b) Effectue bien la tâche pour laquelle il a été conçu; c) Satisfait le besoin pour lequel il sera utilisé et les besoins des utilisateurs.
+==========
+1 (Eveline)
+- Highlight Loc. 708-20  | Added on Tuesday, November 01, 2011, 03:04 AM
+
+FACTEURS DE SUCCÈS LES FACTEURS QUI FAVORISENT LA QUALITÉ • Une terminologie commune • Évaluer et améliorer la maturité des processus de tests • Classer les défauts et en identifier la cause • Former le personnel pour bien utiliser les techniques adéquates • Documenter les plans, cas de tests et les résultats de tests LES FACTEURS QUI NUISENT À LA QUALITÉ • Communiquer que les défauts sont dus à des programmeurs incompétents • Effectuer seulement du débogage informel • Penser qu’on peut corriger des défauts rapidement sans reterser • Mettre le code source qui ne fonctionnes pas en commentaire et continuer les tests • Livrer du logiciel qui ne fonctionnes pas à cause des pressions internes • Laisser le client tester le logiciel • Penser que n’importe qui peut effectuer des tests de logiciel 8.9
+==========
+Coding Guidelines - ACM Queue  (queue.acm.org)
+- Bookmark Loc. 143  | Added on Saturday, November 05, 2011, 03:34 PM
+
+
+==========
+A Comparison of the Top Four Enterprise-Architecture Methodologies  (msdn.microsoft.com)
+- Highlight Loc. 63-74  | Added on Thursday, December 08, 2011, 11:41 PM
+
+architect—One whose responsibility is the design of an architecture and the creation of an architectural description architectural artifact—A specific document, report, analysis, model, or other tangible that contributes to an architectural description architectural description*—A collection of products (artifacts) to document an architecture architectural framework—A skeletal structure that defines suggested architectural artifacts, describes how those artifacts are related to each other, and provides generic definitions for what those artifacts might look like architectural methodology—A generic term that can describe any structured approach to solving some or all of the problems related to architecture architectural process—A defined series of actions directed to the goal of producing either an architecture or an architectural description architectural taxonomy—A methodology for organizing and categorizing architectural artifacts architecture*—The fundamental organization of a system embodied in its components, their relationships to each other, and to the environment, and the principles guiding its design and evolution enterprise architecture—An architecture in which the system in question is the whole enterprise, especially the business processes, technologies, and information systems of the enterprise
+==========
+A Comparison of the Top Four Enterprise-Architecture Methodologies  (msdn.microsoft.com)
+- Highlight Loc. 241-44  | Added on Friday, December 09, 2011, 12:09 AM
+
+Business architecture—Describes the processes the business uses to meet its goals Application architecture—Describes how specific applications are designed and how they interact with each other Data architecture—Describes how the enterprise datastores are organized and accessed Technical architecture—Describes the hardware and software infrastructure that supports applications and their interactions
+==========
+TNT Is Not TeX  (bit-player.org)
+- Highlight Loc. 43-49  | Added on Friday, December 09, 2011, 10:29 AM
+
+Looking at the issue more broadly, I think we often value stability and reliability a little too highly, and innovation too lowly. The world of computer science is overpopulated by walking fossils—not just TeX but also Unix, the Intel 86 architecture, TCP/IP. Quoting myself: What has everybody been doing for the past 35 years? Can it be true that technologies conceived in the era of time-sharing, teletypes and nine-track tape are the very best that computer science has to offer in the 21st century? As a remedy for this situation, the bomb in the basement may be a bit extreme. But I wonder if we shouldn’t try something like a reverse patent, where the whole world gets free use of an invention for the first 17 years, but then there’s an escalating schedule of royalties or taxes for those who fail to come up with a brighter idea.
+==========
+A Day in the life of an Enterprise Architect  (msdn.microsoft.com)
+- Highlight Loc. 170-77  | Added on Friday, December 09, 2011, 10:51 AM
+
+·Defining the future state (sometimes referred to as the “to-be” architecture). This provides a road map for your enterprise to follow.  This will also aid in building your transition state architectures. ·Capturing the current state architecture (sometimes referred to as the “as-is” architecture). This activity helps you figure out “what you have”. By doing this, you can figure out what is working, identify duplications in the enterprise, or measure the health of key business processes that are supported by your architectures. ·Building the transition architecture. Transition state architecture is the process by which we connect the current to the future state by creating an iterative roadmap to get to the desired future state.
+==========
+A Day in the life of an Enterprise Architect  (msdn.microsoft.com)
+- Highlight Loc. 222-49  | Added on Friday, December 09, 2011, 11:00 AM
+
+Why are organizational barriers so prevalent in this role? ·Appetite. Appetite refers to what an organization can support or is willing to support. For example, if one of the organizational principles is to buy software rather than build it, then proposing building a solution may be contrary to what the organization can support. The ability to support solutions is a factor that should always be considered when proposing solutions. Another aspect of appetite is politics within the organization that will need to be considered. ·Maturity. Often EAs have progressive ideas for moving an organization forward with more advanced concepts or architectures. However, the organization may not be ready for those ideas yet, due to factors such as education, infrastructure, and software capabilities. Getting an idea about how mature the organization is will help EAs propose iterative approaches to advanced concepts and solutions. ·Incentive. Localized interest—asking “What’s in it for me?” on a personal or team level—is a common organizational barrier. EAs are typically individual contributors and have little or no organizational powers. When working with teams whose incentives are based on their own organizational goals, it can be difficult to propose ideas that span the organizational unit. In addition to complex decision making, there are organizational forces that challenge an EA. These forces often have a significant impact on an EA’s group, which can lead to poor perception or cause an EA’s group to disband into the organization. There are three core organizational barriers that EAs face: ·Buy-In. Even in non-hierarchal organizations, this is often a challenge. When there are no management ties between you and the personnel you wish to influence, it becomes increasingly challenging for EAs to accomplish their goals. Gaining buy-in from your internal organization on strategies, projects, or their participation on key activities can be daunting. ·Resources. Even if a LOB manager buys in on a strategy, shelling out the cash or personnel to support it can be a different story altogether. In many cases, since EAs span across the enterprise, there are resource needs not only from that business owner but from multiple functional areas. To be clear, EAs generally do not have: ·Budget. In most instances, EA groups have no formal budget, so to be a successful EA you must be good at justifying when you need a share of a group’s financial resources. This could be business justification or from an operational perspective. ·Personnel. Projects need personnel resources as well as financing, so EAs often have to go through another justification effort to get IT and business groups to provide personnel for projects. ·Influencing Current or Existing Projects. Getting in on the front end of a project is one thing, but influencing a project already in motion can be very difficult. In an ongoing project, teams are often reluctant to take an EA’s input or will bypass EA efforts because of the potential impacts to timelines and incurred cost that changes to their architecture may have.
+==========
+Building data science teams  (radar.oreilly.com)
+- Highlight Loc. 253-63  | Added on Saturday, December 31, 2011, 11:48 AM
+
+Would we be willing to do a startup with you? This is the first question we ask ourselves as a team when we meet to evaluate a candidate. It sums up a number of key criteria: Time: If we're willing to do a startup with you, we're agreeing that we'd be willing to be locked in a small room with you for long periods of time. The ability to enjoy another person's company is critical to being able to invest in each other's growth. Trust: Can we trust you? Will we have to look over your shoulder to make sure you're doing an A+ job? That may go without saying, but the reverse is also important: will you trust me? If you don't trust me, we're both in trouble. Communication: Can we communicate with each other quickly and efficiently? If we're going to spend a tremendous amount of time together and if we need to trust each other, we'll need to communicate. Over time, we should be able to anticipate each other's needs in a way that allows us to be highly efficient. Can you "knock the socks off" of the company in 90 days? Once the first criteria has been met, it's critical to establish mechanisms to ensure that the candidate will succeed. We do this by setting expectations for the quality of the candidate's work, and by setting expectations for the velocity of his or her progress.
+==========
+From College To Silicon Valley: Tips From A Veteran  (techcrunch.com)
+- Highlight Loc. 39-43  | Added on Sunday, February 19, 2012, 01:28 AM
+
+How quickly does the company move on ideas (what is the typical time between releases)? What would it take for an engineer to test out an idea on the live site/product? Are groups very distinct or do they work in a more fluid manner? How often do people move around between teams? What is the rough ratio of managers to direct reports? Do they have some sort of formal or informal mentoring program? How much are you going to learn there? Do they offer opportunities to grow and try new things?
+==========
+On Writing Well, 30th Anniversary Edition: An Informal Guide to Writing Nonfiction (William Zinsser)
+- Highlight on Page 16 | Loc. 285-88  | Added on Thursday, January 03, 2013, 04:48 AM
+
+Look for the clutter in your writing and prune it ruthlessly. Be grateful for everything you can throw away. Reexamine each sentence you put on paper. Is every word doing new work? Can any thought be expressed with more economy? Is anything pompous or pretentious or faddish? Are you hanging on to something useless just because you think it’s beautiful? Simplify, simplify. 
+==========
+On Writing Well, 30th Anniversary Edition: An Informal Guide to Writing Nonfiction (William Zinsser)
+- Highlight on Page 23 | Loc. 382-83  | Added on Thursday, January 03, 2013, 04:58 AM
+
+Sell yourself, and your subject will exert its own appeal. Believe in your own identity and your own opinions. Writing is an act of ego, and you might as well admit it. Use its energy to keep yourself going. 
+==========
+How To Win Friends and Influence People (Dale Carnegie)
+- Highlight Loc. 870  | Added on Friday, April 12, 2013, 08:59 AM
+
+I am hearty in my approbation and lavish in my praise. "
+==========
+How To Win Friends and Influence People (Dale Carnegie)
+- Highlight Loc. 864-67  | Added on Friday, April 12, 2013, 09:00 AM
+
+“I consider my ability to arouse enthusiasm among my people,” said Schwab, “the greatest asset I possess, and the way to develop the best that is in a person is by appreciation and encouragement.
+==========
+How To Win Friends and Influence People (Dale Carnegie)
+- Highlight Loc. 875-79  | Added on Friday, April 12, 2013, 09:01 AM
+
+“In my wide association in life, meeting with many and great people in various parts of the world,” Schwab declared, “I have yet to find the person, however great or exalted his station, who did not do better work and put forth greater effort under a spirit of approval than he would ever do under a spirit of criticism.”
+==========
+How To Win Friends and Influence People (Dale Carnegie)
+- Highlight Loc. 882-83  | Added on Friday, April 12, 2013, 09:01 AM
+
+“Here lies one who knew how to get around him men who were cleverer than himself:”
+==========
+How To Win Friends and Influence People (Dale Carnegie)
+- Highlight Loc. 1015-16  | Added on Friday, April 12, 2013, 09:10 AM
+
+Emerson said: “Every man I meet is my superior in some way, In that, I learn of him.”
+==========
+How To Win Friends and Influence People (Dale Carnegie)
+- Highlight Loc. 1023-24  | Added on Friday, April 12, 2013, 09:11 AM
+
+PRINCIPLE 2 Give honest and sincere appreciation.
+==========
+How To Win Friends and Influence People (Dale Carnegie)
+- Bookmark Loc. 1151  | Added on Friday, April 12, 2013, 09:20 AM
+
+
+==========
+How To Win Friends and Influence People (Dale Carnegie)
+- Highlight Loc. 1154-56  | Added on Friday, April 12, 2013, 09:20 AM
+
+"If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person’s angle as well as from your own.”
+==========
+Foundation's Edge (Isaac Asimov)
+- Highlight Loc. 3218  | Added on Tuesday, April 16, 2013, 10:41 AM
+
+You show me someone who can’t understand people and I’ll show you someone who has built up a false image of himself—no
+==========
+Foundation's Edge (Isaac Asimov)
+- Bookmark Loc. 3826  | Added on Tuesday, April 16, 2013, 07:21 PM
+
+
+==========
+Ender's Game (The Ender Quintet) (Orson Scott Card)
+- Highlight on Page 313 | Loc. 5599-5600  | Added on Thursday, May 02, 2013, 10:21 AM
+
+“Welcome to the human race. Nobody controls his own life, Ender. The best you can do is choose to fill the roles given you by good people, by people who love you. 
+==========
+The 7 Habits of Highly Effective People (Stephen R. Covey)
+- Highlight Loc. 1891  | Added on Tuesday, July 23, 2013, 06:40 AM
+
+Our knowledge and understanding of correct principles is limited by our own lack of awareness of our true nature and the world around us
+==========
+Tour of Mont Blanc: Complete two-way trekking guide (Cicerone Guides) (Kev Reynolds)
+- Highlight Loc. 383-406  | Added on Tuesday, March 11, 2014, 10:47 AM
+
+Your choice of equipment will also be important. For a start, the type of boot you wear can be a critical factor in your enjoyment of the walk. Boots need to be comfortable, lightweight, of a good fit and broken in before heading for the Alps. They should provide sound ankle support and have thick cleated soles (Vibram or similar) that have not worn smooth, for as much grip as possible will be required on some sections. Good waterproofs form an essential part of any TMB walker’s kit, not only as protection against rain or snowfall, but to double as windproofs. Jacket and overtrousers made from a ‘breathable’ fabric are recommended, but a collapsible umbrella can be extremely useful too – especially for walkers who wear spectacles. In all but the windiest of conditions, an umbrella will keep rain off the upper part of your body, protect the top of the rucksack and ensure your glasses do not steam up. Having regularly used a lightweight, collapsible umbrella in high mountain regions throughout the world over a number of years, I am convinced of its usefulness. Arriving at the top of the Fenêtre d’Arpette from Champex A warm pullover, fleece or pile jacket should also be taken, as should a woollen hat or balaclava, plus gloves. In the summer, wear light-weight layers that can be removed in hot weather. Apart from protection against wet and cold, one should also be prepared for extremes of sunshine and heat. A brimmed sunhat, suncream (Factor 20 or stronger), lipsalve and sunglasses ought to form an essential part of your equipment. A first-aid kit must be included. Waterbottle (1 litre minimum capacity), compass, headtorch with spare batteries and bulb, whistle and maps should also be carried, as should a small amount of emergency food and a knife. The food can be recharged on occasion, either at a mountain hut or as you pass through villages. A sheet sleeping bag (sleeping bag liner) is advised for nights spent in mountain huts and dortoirs. Telescopic trekking poles are extremely useful, particularly when descending steep slopes, and are recommended. One or two poles – choose to suit your own preference. On the ladders between Le Brévent and Col du Brévent As for the rucksack, this needs to fit comfortably and have a waist-belt adjusted to take the weight and control any unnecessary movement when walking. It need not be a large sack, since it ought to be possible to keep all equipment down to an absolute maximum weight of 10kg (20lbs) – unless you intend to camp, that is. A waterproof stuffsac or large thick polythene bag to contain equipment inside the pack will safeguard items from getting wet in the event of bad weather, and a waterproof rucksack cover will form an outer layer of protection. A selection of plastic bags of assorted sizes will be useful. 
+==========
+Tour of Mont Blanc: Complete two-way trekking guide (Cicerone Guides) (Kev Reynolds)
+- Highlight Loc. 258-63  | Added on Tuesday, March 11, 2014, 11:00 AM
+
+Clockwise circuit: 10 days Champex – La Léchère/Ferret La Léchère/Ferret – Rifugio Bonatti Rifugio Bonatti – Courmayeur Courmayeur – Rifugio Elisabetta Rifugio Elisabetta – Refuge de la Croix du Bonhomme Refuge de la Croix du Bonhomme – Les Contamines Les Contamines – Les Houches Les Houches – La Flégère La Flégère – Trient Trient – Champex 
+==========
+The Quantum Thief (Jean le Flambeur) (Hannu Rajaniemi)
+- Highlight on Page 31 | Loc. 451  | Added on Monday, August 18, 2014, 09:49 AM
+
+steganography. 
+==========
+Tour of Mont Blanc: Complete two-way trekking guide (Cicerone Guides) (Kev Reynolds)
+- Highlight Loc. 346-49  | Added on Tuesday, September 02, 2014, 02:22 AM
+
+You are strongly advised to use a sheet sleeping bag (sleeping bag liner) for reasons of hygiene, and to have a head torch with you, as your dormitory may well be unlit. It is usual to pay for accommodation and meals the night before you leave. Refuge guardians will usually phone ahead to reserve a place at the next hut if required. 
+==========
+Tour of Mont Blanc: Complete two-way trekking guide (Cicerone Guides) (Kev Reynolds)
+- Highlight Loc. 418-20  | Added on Tuesday, September 02, 2014, 02:30 AM
+
+Don’t venture onto exposed ridges if a storm is imminent, but in the unlucky event of being caught out by one, avoid isolated trees, prominent rocks and metal objects (discard trekking poles), and do not shelter in caves, beneath overhanging rocks or in gullies. Instead, kneel or squat on your rucksack, with head down and hands on knees. 
+==========
+Tour of Mont Blanc: Complete two-way trekking guide (Cicerone Guides) (Kev Reynolds)
+- Highlight Loc. 2982  | Added on Tuesday, September 09, 2014, 09:58 PM
+
+Au Club Alpin, 1938 Champex-Lac (Tel: 027 783 11 61) – 25d: all year 
+==========
+Siddhartha (Hermann Hesse)
+- Highlight on Page 73 | Loc. 1579-83  | Added on Thursday, September 11, 2014, 03:25 AM
+
+“So many, so many thousands possess this sweetest of good fortunes—why don’t I? Even bad people, even thieves and robbers have children and love them, and are being loved by them, all except for me.” Thus simply, thus without reason he now thought, thus similar to the childlike people he had become. He looked upon people differently than before; he was less arrogant and proud, but instead warmer, more curious, more involved. 
+==========
